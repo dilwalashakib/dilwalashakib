@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="center">I code with</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
@@ -30,11 +30,11 @@
 
 <br clear="both">
 
-<h2 align="left">Connect with me!</h2>
+<h2 align="center">Connect with me!</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/dilwalashakib/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="40" alt="linkedin logo"  />
   </a>
@@ -59,4 +59,5 @@
 </div>
 
 ###
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilwalashakib&show_icons=true&locale=en&layout=compact" alt="dilwalashakib" /></p>
