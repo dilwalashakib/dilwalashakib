@@ -1,14 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dilwala Shakib</h1>
 
-###
-
 <p align="center">I am a full stack web developer. I specialize in JavaScript, Node JS, React JS, Next JS, Express JS, MongoDB, Tailwind CSS and more.</p>
 
-###
-
 <h2 align="center">I code with</h2>
-
-###
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
@@ -26,12 +20,10 @@
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
 </div>
 
-###
-
 <br clear="both">
 
 <h2 align="center">Connect with me!</h2>
-###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/dilwalashakib/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="40" alt="linkedin logo"  />
@@ -56,4 +48,3 @@
   </a>
 </div>
 
-###
