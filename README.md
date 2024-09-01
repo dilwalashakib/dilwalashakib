@@ -40,11 +40,11 @@
   <a href="https://www.instagram.com/dilwalashakib" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="54" height="40" alt="instagram logo"  />
   </a>
-  <span title="dilwala446@gmail.com">
+  <a href='#' onclick='someFunc(3.1415926); return false;' title="dilwala446@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="54" height="40" alt="gmail logo"  />
-  </span>
-  <span title="01645975729">
+  </a>
+  <a href='#' onclick='someFunc(3.1415926); return false;' title="01645975729">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="54" height="40" alt="whatsapp logo"  />
-  </span>
+  </a>
 </div>
 
