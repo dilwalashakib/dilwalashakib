@@ -40,10 +40,10 @@
   <a href="https://www.instagram.com/dilwalashakib" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="54" height="40" alt="instagram logo"  />
   </a>
-  <a title="dilwala446@gmail.com" target="_blank">
+  <a href="" title="dilwala446@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="54" height="40" alt="gmail logo"  />
   </a>
-  <a title="01645975729" target="_blank">
+  <a href="" title="01645975729" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="54" height="40" alt="whatsapp logo"  />
   </a>
 </div>
