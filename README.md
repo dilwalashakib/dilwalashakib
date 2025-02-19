@@ -17,7 +17,7 @@
   <img width="12" />
   <img src="./Images/MongoDB.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="TailwindCss.svg" height="40" alt="tailwindcss logo"  />
+  <img src="./Images/TailwindCss.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
 <br clear="both">
