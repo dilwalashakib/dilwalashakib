@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dilwala Shakib</h1>
 
-<p align="center">I am a full stack web developer. I specialize in JavaScript, Node JS, React JS, Next JS, Express JS, MongoDB, Tailwind CSS and more.</p>
+<p align="center">I am a full stack web developer. I specialize in JavaScript, Node JS, React JS, Next JS, Express JS, MongoDB, Tailwind CSS and more. </p>
 
-<img src="./Images/dilwala.png" height="300" alt="javascript logo"  />
+<div><img src="./Images/dilwala.png" height='auto' alt="javascript logo"  /></div>
 
 <h2 align="center">I code with</h2>
 
@@ -43,7 +43,7 @@
     <img src="./social/instagram.svg" width="54" height="40" alt="instagram logo"  />
   </a>
   <a href='#' title="dilwala446@gmail.com">
-    <img src="./socaial/gmail.svg" width="54" height="40" alt="gmail logo"  />
+    <img src="./social/gmail.svg" width="54" height="40" alt="gmail logo"  />
   </a>
   <a href='#' title="01645975729">
     <img src="./social/whatsapp.svg" width="54" height="40" alt="whatsapp logo"  />
