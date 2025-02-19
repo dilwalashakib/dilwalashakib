@@ -2,6 +2,8 @@
 
 <p align="center">I am a full stack web developer. I specialize in JavaScript, Node JS, React JS, Next JS, Express JS, MongoDB, Tailwind CSS and more.</p>
 
+<img src="./Images/dilwala.png" height="300" alt="javascript logo"  />
+
 <h2 align="center">I code with</h2>
 
 <div align="center">
@@ -26,25 +28,25 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dilwalashakib/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="40" alt="linkedin logo"  />
+    <img src="./social/linkedin.svg" width="54" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/@dilwalaShakib" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="54" height="40" alt="youtube logo"  />
+    <img src="./social/youtube.svg" width="54" height="40" alt="youtube logo"  />
   </a>
   <a href="https://www.facebook.com/dilwalashakib" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="54" height="40" alt="facebook logo"  />
+    <img src="./social/facebook.svg" width="54" height="40" alt="facebook logo"  />
   </a>
   <a href="https://stackoverflow.com/users/13046204/dilwala-shakib" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="54" height="40" alt="stackoverflow logo"  />
+    <img src="./social/stackoverflow.svg" width="54" height="40" alt="stackoverflow logo"  />
   </a>
   <a href="https://www.instagram.com/dilwalashakib" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="54" height="40" alt="instagram logo"  />
+    <img src="./social/instagram.svg" width="54" height="40" alt="instagram logo"  />
   </a>
   <a href='#' title="dilwala446@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="54" height="40" alt="gmail logo"  />
+    <img src="./socaial/gmail.svg" width="54" height="40" alt="gmail logo"  />
   </a>
   <a href='#' title="01645975729">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="54" height="40" alt="whatsapp logo"  />
+    <img src="./social/whatsapp.svg" width="54" height="40" alt="whatsapp logo"  />
   </a>
 </div>
 
